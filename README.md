@@ -3,7 +3,6 @@
 [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)](https://jupyter.org)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
 ![Model](https://img.shields.io/badge/Model-DistilBERT-green)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
 
 
